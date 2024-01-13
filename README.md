@@ -9,7 +9,7 @@ You can reach me at 📧 **srutidutta32@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sruti-dutta-87195416b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sruti dutta" height="30" width="40" /></a>
-<a href="https://public.tableau.com/app/profile/sneha.sawant" target="blank"><img align="center" src="https://public.tableau.com/app/assets/tableau-public-logo-rgb.07774149.svg" alt="sneha sawant" height="30" width="100" /></a>
+<a href="https://public.tableau.com/app/profile/sruti2331/vizzes" target="blank"><img align="center" src="https://public.tableau.com/app/assets/tableau-public-logo-rgb.07774149.svg" alt="sneha sawant" height="30" width="100" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
